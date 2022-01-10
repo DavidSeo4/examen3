@@ -10,7 +10,3 @@
 
 6-Por último preparamos los elementos de la pagina con CSS (los que no hayamos ajustado ya con JS) para que sea responsiva y accesible según lo necesitemos.
 
-
-<img src="../examen3/img/exa.png" alt="">
-<img src="../examen3/img/exa2.png" alt="">
-<img src="../examen3/img/exa3.png" alt="">

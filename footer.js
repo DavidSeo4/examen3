@@ -44,10 +44,10 @@ footerTemplate.innerHTML = `
   </style>
   <footer>
     <ul>
-    <li><a href="../examen3/index.html">Inicio</a></li>
-    <li><a href="../examen3/acercade.html">Acerca de nosotros</a></li>
-    <li><a href="../examen3/servicios.html">Nuestros servicios</a></li>
-    <li><a href="../examen3/contacto.html">Contacto</a></li>
+    <li><a href="../index.html">Inicio</a></li>
+    <li><a href="../acercade.html">Acerca de nosotros</a></li>
+    <li><a href="../servicios.html">Nuestros servicios</a></li>
+    <li><a href="../contacto.html">Contacto</a></li>
     </ul>
     <ul class="social-row">
       <li><a href="https://github.com/my-github-profile"><i class="fab fa-github"></i></a></li>

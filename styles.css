@@ -9,6 +9,7 @@ form {
   background-color: #eeeeee28;
   padding: 25px 0;
   margin: 40px auto;
+  border-radius: 10px;
   color: rgb(0, 0, 0);
   border: 5px solid rgba(0, 0, 0, 0.774);
   font-family: 'Poppins', sans-serif;
