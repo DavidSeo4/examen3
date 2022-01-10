@@ -1,0 +1,4 @@
+- A produción de contidos debe seguir os estandares de publicación nos que a organización do proxecto é un elemento clave - tes que organizar mellor os teus proxectos
+- Coidar o código: demasiados espazos en branco e inconsistencias na redacción - extensións como Prettier ou Beautify poden axudar.
+- Coidar a redacción: o documento README.md é un documento técnico, a súa linguaxe debe amosar o control e os coñecementos que tes do que explicas.
+- Hai que seguir prácticando
